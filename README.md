@@ -1,3 +1,7 @@
+> **Moved:** this code now lives in the `tools/` directory of
+> [lambadalambda/ssh-gate](https://github.com/lambadalambda/ssh-gate), with
+> its full history. This repository is archived.
+
 # sshgate
 
 > The main work has moved to SSH Gate, a fork of Secretive with scoped grants
